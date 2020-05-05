@@ -1,0 +1,46 @@
+	.back1{
+		background-color: #f1e3cb;
+		font-family: helvetica; 
+	}
+	.back2{
+		background-color: #708160;
+		font-family: helvetica;
+	}
+	.back3{
+		background-color: #faf2f2;
+		font-family: helvetica;	
+	}
+	thead{
+		background-color: #708160;
+		color: white;
+	}
+	tbody{
+		background-color: #bb3b0e;
+		color: white;
+	}
+	.b1{
+		color: grey;
+		font-family: helvetica;
+		font-size: 30;
+	}
+	.b2{
+		color: #d8c593;
+		font-family: helvetica;
+		font-size: 60;
+	}
+	.b3{
+		color: grey;
+		font-family: helvetica;
+		font-size: 30;
+	}
+	h3{
+		color: #581c0c;
+		font-family: helvetica;
+	}
+	hr {
+		border-style: none;
+		border-top-style: dotted;
+		border-color: white;
+		border-width: 5px;
+		width: 5%;
+	}
